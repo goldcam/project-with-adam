@@ -25,7 +25,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Runs tests without watch mode.
 
-More info on jest with yarn [jest with yarn](https://jestjs.io/docs/cli#using-with-yarn)
+More info on [jest with yarn](https://jestjs.io/docs/cli#using-with-yarn)
 
 #### `yarn build`
 
