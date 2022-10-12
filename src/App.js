@@ -1,7 +1,10 @@
+import GitLinks from './GitLinks';
+
 const App = () => {
   return (
     <div className="App">
-      Hello world
+      Git Links
+      <GitLinks />
     </div>
   );
 }
