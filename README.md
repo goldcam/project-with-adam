@@ -23,6 +23,12 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 #### `yarn test --watchAll=false`
 
+##### [Coverage Reporting](https://create-react-app.dev/docs/running-tests/#coverage-reporting)
+
+The coverage reporting will tell you what percentage of files are coverage by tests.  
+
+#### `--coverage`
+
 Runs tests without watch mode.
 
 More info on [jest with yarn](https://jestjs.io/docs/cli#using-with-yarn)
