@@ -1,10 +1,11 @@
 import GitLinks from './GitLinks';
+import NodeLinks from './NodeLinks';
 
 const App = () => {
   return (
-    <div className="App">
-      Git Links
+    <div className="App">    
       <GitLinks />
+      <NodeLinks />
     </div>
   );
 }
